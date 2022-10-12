@@ -1,0 +1,70 @@
+.container{
+    display: grid;
+    grid-template-columns: 200px 400px;
+    grid-gap: 200px;
+    
+}
+
+.container2{
+    display: grid;
+    grid-template-columns: 200px 400px;
+    grid-gap: 600px;
+    margin-left: 20px;
+    
+}
+
+.Description{
+    background-color: bisque;
+    border: black;
+    border-radius: 1px;
+}
+
+.phone{
+    height: 300px;
+    color: bisque;
+}
+
+.scheme{
+    color: grey;
+}
+
+.color{
+    color:red
+}
+
+.stars{
+    size: 15px;
+    color: blue;
+}
+
+#heading1{
+    font-size: 25px;
+}
+
+#heading2{
+    font-size: 25px;
+}
+hr{
+    border-color: black;
+    border-style: none;
+    border-top-style: dotted;
+    height: 0px;
+    border-width: 2px;
+    width: 10%;
+}
+
+body{
+    background-color:bisque;
+}
+
+#textarea{
+    
+    height: 100px;
+    width: 250px;
+}
+#submitbtn{
+    margin-top: 50px;
+    margin-left: 10px;
+    
+}
+
